@@ -46,7 +46,7 @@
   <packaging>jar</packaging>
   <properties>
     <github.global.server>github</github.global.server>
-    <hippo-essentials.version>1.01.03</hippo-essentials.version>
+    <hippo-essentials.version>1.01.04-SNAPSHOT</hippo-essentials.version>
     <junit.version>4.11</junit.version>
     <spring-test.version>3.2.6.RELEASE</spring-test.version>
   </properties>
